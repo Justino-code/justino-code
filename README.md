@@ -5,7 +5,7 @@
 ### Habilidades
 
 - **Programação**: 
-  - C, C#, Java, JavaScript, PHP, Python (Intermediário a Avançado)
+  - C, C#, Java, JavaScript, Kotlin , PHP, Python(Intermediário a Avançado)
   
 - **Banco de Dados**: 
   - SQL, MySQL (Intermediário)
